@@ -1,0 +1,18 @@
+[book]
+authors = ["nengapi"]
+language = "th"
+multilingual = false
+src = "docs"
+title = "Rust 21 Days Challenge"
+
+[rust]
+edition = "2021"
+
+[output.html.playground]
+editable = true      
+copyable = true          
+copy-js = true           
+line-numbers = true 
+runnable = false
+
+[preprocessor.alerts]

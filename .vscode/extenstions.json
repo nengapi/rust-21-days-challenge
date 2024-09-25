@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "bungcip.better-toml",
+    "bierner.markdown-preview-github-styles",
+    "yzhang.markdown-all-in-one"
+  ]
+}
